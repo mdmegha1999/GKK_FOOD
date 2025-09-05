@@ -1,29 +1,30 @@
 // import React from 'react'
 import './Navbar.css'
-import logo from "../../assets/gkk-logo.jpg";
+import logo from "../../assets//yummyfood.png";
 import { IoSearchOutline } from "react-icons/io5";
 import { FaShoppingBasket } from "react-icons/fa";
 import { useState } from 'react';
+import { Link } from 'react-router-dom'
 
-const Navbar = () => {
-  const [menu, setMenu] = useState("home");
+const Navbar = ({setShowLogin}) => {
+  const [menu, setMenu] = useState("menu");
   return (
     <div className='navbar'>
-    <img src={logo} alt="" className='logo' />
+    <Link to='/'><img src={logo} alt="" className='logo' /></Link>
     <ul className="navbar-menu">
-    <li onClick={()=>setMenu("home")} className={menu==="home"?"active":""}>home</li>
-    <li onClick={()=>setMenu("menu")} className={menu==="menu"?"active":""}>menu</li>
-    <li onClick={()=>setMenu("mobile-app")} className={menu==="mobile-app"?"active":""}>mobile-app</li>
-    <li onClick={()=>setMenu("contect-us")} className={menu==="contect-us"?"active":""}>contact us</li>
+    <Link to='/' onClick={()=>setMenu("home")} className={menu==="home"?"active":""}>home</Link>
+    <a href='#explore-menu' onClick={()=>setMenu("menu")} className={menu==="menu"?"active":""}>menu</a>
+    <a href='#app-download' onClick={()=>setMenu("mobile-app")} className={menu==="mobile-app"?"active":""}>mobile-app</a>
+    <a href='#footer' onClick={()=>setMenu("contect-us")} className={menu==="contect-us"?"active":""}>contact us</a>
     </ul>
     <div className="navbar-right">
     <IoSearchOutline />
 
     <div className="navbar-search-icon">
-    <FaShoppingBasket />
+    <Link to='/cart'><FaShoppingBasket /></Link>
     <div className="dot"></div>
     </div>
-    <button>sign in</button>
+    <button onClick={()=>setShowLogin(true)}>sign in</button>
     </div>
     </div>
   )

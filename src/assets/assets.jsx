@@ -143,26 +143,26 @@ export const food_list = [
     "country": "Memphis, TN",
     "category": "Barbecue/bbqs"
   },
-  {
-    "id": "whole-brisket-texas-bbq-sauce",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/110384/whole-brisket-texas-barbecue-bbq-sauce.e07ee4818b20ed43d217bf67fedd41ce.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Franklin Barbecue",
-    "dsc": "Whole Brisket + Texas Barbecue BBQ Sauce",
-    "price": 249,
-    "rate": 4,
-    "country": "Austin, TX",
-    "category": "Barbecue/bbqs"
-  },
-  {
-    "id": "whole-texas-smoked-brisket",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/101071/whole-texas-smoked-brisket.a5558a25381e271408e197936e7985d8.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Terry Black's Barbecue",
-    "dsc": "Whole Texas Smoked Brisket",
-    "price": 189,
-    "rate": 5,
-    "country": "Austin, TX",
-    "category": "Barbecue/bbqs"
-  },
+  // {
+  //   "id": "whole-brisket-texas-bbq-sauce",
+  //   "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/110384/whole-brisket-texas-barbecue-bbq-sauce.e07ee4818b20ed43d217bf67fedd41ce.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+  //   "name": "Franklin Barbecue",
+  //   "dsc": "Whole Brisket + Texas Barbecue BBQ Sauce",
+  //   "price": 249,
+  //   "rate": 4,
+  //   "country": "Austin, TX",
+  //   "category": "Barbecue/bbqs"
+  // },
+  // {
+  //   "id": "whole-texas-smoked-brisket",
+  //   "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/101071/whole-texas-smoked-brisket.a5558a25381e271408e197936e7985d8.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+  //   "name": "",
+  //   "dsc": "Whole Texas Smoked Brisket",
+  //   "price": 189,
+  //   "rate": 5,
+  //   "country": "Austin, TX",
+  //   "category": "Barbecue/bbqs"
+  // },
   
   {
     "id": "17352-ribs-and-pulled-pork-medium-combo-pack",
@@ -185,16 +185,16 @@ export const food_list = [
     "category": "Barbecue/bbqs"
   },
   
-  {
-    "id": "whole-brisket-sausage-texas-barbecue-bbq-sauce",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/131846/whole-brisket-sausage-texas-barbecue-bbq-sauce.ffb470cab2f454fd848faa5dddfe65f5.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Franklin Barbecue",
-    "dsc": "Whole Brisket + Sausage + Texas Barbecue BBQ Sauce",
-    "price": 289,
-    "rate": 5,
-    "country": "Austin, TX",
-    "category": "Barbecue/bbqs"
-  },
+  // {
+  //   "id": "whole-brisket-sausage-texas-barbecue-bbq-sauce",
+  //   "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/131846/whole-brisket-sausage-texas-barbecue-bbq-sauce.ffb470cab2f454fd848faa5dddfe65f5.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+  //   "name": "Franklin Barbecue",
+  //   "dsc": "Whole Brisket + Sausage + Texas Barbecue BBQ Sauce",
+  //   "price": 289,
+  //   "rate": 5,
+  //   "country": "Austin, TX",
+  //   "category": "Barbecue/bbqs"
+  // },
   {
     "id": "006-kings-meat-lovers-special",
     "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/66734/bbq-meat-lovers-special-for-10.36ca670fda4bfa783c2ea9165e068d26.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
@@ -215,16 +215,16 @@ export const food_list = [
     "country": "Los Angeles, CA",
     "category": "Barbecue/bbqs"
   },
-  {
-    "id": "17796-mighty-quinns-bbq-sampler-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/134182/mighty-quinns-bbq-sampler-pack.1bfe4a0665edc565756f5241bf25840e.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Mighty Quinn's BBQ",
-    "dsc": "Mighty Quinn's BBQ Sampler Pack",
-    "price": 169,
-    "rate": 5,
-    "country": "New York, NY",
-    "category": "Barbecue/bbqs"
-  },
+  // {
+  //   "id": "17796-mighty-quinns-bbq-sampler-pack",
+  //   "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/134182/mighty-quinns-bbq-sampler-pack.1bfe4a0665edc565756f5241bf25840e.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+  //   "name": "Mighty Quinn's BBQ",
+  //   "dsc": "Mighty Quinn's BBQ Sampler Pack",
+  //   "price": 169,
+  //   "rate": 5,
+  //   "country": "New York, NY",
+  //   "category": "Barbecue/bbqs"
+  // },
   {
     "id": "post-oak-smoked-half-brisket",
     "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/92395/post-oak-smoked-usda-prime-half-brisket.6f17178dde7d806670bcc73ff11762b3.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
@@ -366,16 +366,16 @@ export const food_list = [
     "country": "Kinston, NC",
     "category": "Barbecue/bbqs"
   },
-  {
-    "id": "mesquite-smoked-peppered-beef-tenderloin",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/99462/mesquite-smoked-peppered-beef-tenderloin.5c314418a1f75c7057eed686e2fad46f.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Perini Ranch Steakhouse",
-    "dsc": "Mesquite Smoked Peppered Beef Tenderloin",
-    "price": 165,
-    "rate": 4,
-    "country": "Buffalo Gap, TX",
-    "category": "Barbecue/bbqs"
-  },
+  // {
+  //   "id": "mesquite-smoked-peppered-beef-tenderloin",
+  //   "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/99462/mesquite-smoked-peppered-beef-tenderloin.5c314418a1f75c7057eed686e2fad46f.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+  //   "name": "Perini Ranch Steakhouse",
+  //   "dsc": "Mesquite Smoked Peppered Beef Tenderloin",
+  //   "price": 165,
+  //   "rate": 4,
+  //   "country": "Buffalo Gap, TX",
+  //   "category": "Barbecue/bbqs"
+  // },
   {
     "id": "20154-bacon-wrapped-cheddar-jalapeno-sausage-slammers",
     "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/131365/bacon-wrapped-cheddar-jalapeno-sausage-slammers.1aad356ed0b86ebefde0c645520fddb3.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
@@ -935,26 +935,26 @@ export const food_list = [
     "country": "New York, NY",
     "category":"Breads"
   },
-  {
-    "id": "choose-your-own-gourmet-breadsticks-4-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/90702/choose-your-own-gourmet-breadsticks-4-pack.17986d6fdad9457523c4276d09ffd346.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Claudio's Specialty Breads",
-    "dsc": "Choose Your Own Gourmet Breadsticks - 4 Pack",
-    "price": 35,
-    "rate": 5,
-    "country": "Castroville, CA",
-    "category":"Breads"
-  },
-  {
-    "id": "essa-bagel-bakers-dozen-kosher-buy-1-get-1-free",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/100871/essa-bagel-dozen-kosher-buy-1-get-1-free.9a369a3f64e48283b57e929a82a67565.png?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Ess-a-Bagel",
-    "dsc": "Ess-a-Bagel Dozen (Kosher) - BUY 1 GET 1 FREE",
-    "price": 59.95,
-    "rate": 5,
-    "country": "New York, NY",
-    "category":"Breads"
-  },
+  // {
+  //   "id": "choose-your-own-gourmet-breadsticks-4-pack",
+  //   "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/90702/choose-your-own-gourmet-breadsticks-4-pack.17986d6fdad9457523c4276d09ffd346.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+  //   "name": "Claudio's Specialty Breads",
+  //   "dsc": "Choose Your Own Gourmet Breadsticks - 4 Pack",
+  //   "price": 35,
+  //   "rate": 5,
+  //   "country": "Castroville, CA",
+  //   "category":"Breads"
+  // },
+  // {
+  //   "id": "essa-bagel-bakers-dozen-kosher-buy-1-get-1-free",
+  //   "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/100871/essa-bagel-dozen-kosher-buy-1-get-1-free.9a369a3f64e48283b57e929a82a67565.png?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+  //   "name": "Ess-a-Bagel",
+  //   "dsc": "Ess-a-Bagel Dozen (Kosher) - BUY 1 GET 1 FREE",
+  //   "price": 59.95,
+  //   "rate": 5,
+  //   "country": "New York, NY",
+  //   "category":"Breads"
+  // },
   {
     "id": "kosher-frozendorf-ready-to-bake-braided-challah-2-pack",
     "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/108248/kosher-frozendorf-frozen-braided-challah-2-pack.75fe43e83efa6c3d37634364fcab109b.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
@@ -1055,16 +1055,16 @@ export const food_list = [
     "country": "Pescadero, CA",
     "category":"Breads"
   },
-  {
-    "id": "double-chocolate-babka",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/134184/double-chocolate-babka.e7bca1ea0d2327e31179841ef74a4611.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Oneg Bakery",
-    "dsc": "Double Chocolate Babka",
-    "price": 59,
-    "rate": 4,
-    "country": "Brooklyn, NY",
-    "category":"Breads"
-  },
+  // {
+  //   "id": "double-chocolate-babka",
+  //   "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/134184/double-chocolate-babka.e7bca1ea0d2327e31179841ef74a4611.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+  //   "name": "Oneg Bakery",
+  //   "dsc": "Double Chocolate Babka",
+  //   "price": 59,
+  //   "rate": 4,
+  //   "country": "Brooklyn, NY",
+  //   "category":"Breads"
+  // },
   
   {
     "id": "sourdough-bread-assortment-4-pack",
@@ -1516,17 +1516,17 @@ export const food_list = [
           "category": "Chocolates"
 
         },
-        {
-          "id": "dark-chocolate-truffle-collection-16-pieces",
-          "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/131532/dark-chocolate-truffle-collection-16-pieces.4109f4f80d9d9ddf81d7b704424245f8.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-          "name": "Vosges Haut-Chocolat",
-          "dsc": "Dark Chocolate Truffle Collection - 16 Pieces",
-          "price": 49,
-          "rate": 5,
-          "country": "Chicago, IL",
-          "category": "Chocolates"
+        // {
+        //   "id": "dark-chocolate-truffle-collection-16-pieces",
+        //   "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/131532/dark-chocolate-truffle-collection-16-pieces.4109f4f80d9d9ddf81d7b704424245f8.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+        //   "name": "Vosges Haut-Chocolat",
+        //   "dsc": "Dark Chocolate Truffle Collection - 16 Pieces",
+        //   "price": 49,
+        //   "rate": 5,
+        //   "country": "Chicago, IL",
+        //   "category": "Chocolates"
 
-        },
+        // },
         {
           "id": "raspberry-chocolate-pie",
           "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/131947/raspberry-chocolate-pie.c40248c44adb974a159d7f100011c987.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
@@ -2377,17 +2377,17 @@ export const food_list = [
           "category": "Desserts"
 
         },
-        {
-          "id": "double-chocolate-babka",
-          "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/134184/double-chocolate-babka.e7bca1ea0d2327e31179841ef74a4611.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-          "name": "Oneg Bakery",
-          "dsc": "Double Chocolate Babka",
-          "price": 59,
-          "rate": 4,
-          "country": "Brooklyn, NY",
-          "category": "Desserts"
+        // {
+        //   "id": "double-chocolate-babka",
+        //   "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/134184/double-chocolate-babka.e7bca1ea0d2327e31179841ef74a4611.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+        //   "name": "Oneg Bakery",
+        //   "dsc": "Double Chocolate Babka",
+        //   "price": 59,
+        //   "rate": 4,
+        //   "country": "Brooklyn, NY",
+        //   "category": "Desserts"
 
-        },
+        // },
         {
           "id": "24011-breads-bakery-chocolate-babka-3-pack",
           "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/90530/breads-bakery-chocolate-babka-3-pack.82ccccf0e109eaa03af3f8f0a4405ced.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",

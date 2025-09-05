@@ -28,12 +28,12 @@ const Footer = () => {
         <h2>GET IN TOUCH</h2>
         <ul>
         <li>+1-333-444-5677</li>
-        <li>content@gharkakhana.com</li>
+        <li>content@yousfood.com</li>
         </ul>
         </div>
       </div>
       <hr/>
-      <p className="footer-copyright">Copyright 2024 © Gharkakhana.com - All Right Reserved.</p>
+      <p className="footer-copyright">Copyright 2024 © yousfood.com - All Right Reserved.</p>
     </div>
   );
 };

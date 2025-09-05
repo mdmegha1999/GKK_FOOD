@@ -5,7 +5,7 @@ const AppDownload = () => {
   return (
     <div className="add-download" id="app-download">
       <p>
-        For Better Experience Download <br /> Gharkakhana App
+        For Better Experience Download <br /> yummyfood App
       </p>
       <div className="app-download-platforms">
         <img src="/public/IMG_20241011_014007.jpg"/>
